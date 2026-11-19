@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="2048" viewBox="0 0 2048 2048">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#1A2E52"/><stop offset="0.48" stop-color="#0F203E"/><stop offset="1" stop-color="#0A1730"/></linearGradient><radialGradient id="topglow" cx="0.5" cy="0.06" r="0.62"><stop offset="0" stop-color="#B5121E" stop-opacity="0.30"/><stop offset="1" stop-color="#B5121E" stop-opacity="0"/></radialGradient><linearGradient id="hub" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B5121E"/><stop offset="0.52" stop-color="#99000B"/><stop offset="1" stop-color="#7A0009"/></linearGradient><radialGradient id="hubglow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#99000B" stop-opacity="0.55"/><stop offset="1" stop-color="#99000B" stop-opacity="0"/></radialGradient><pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/></pattern></defs>
+<rect width="2048" height="2048" fill="url(#bg)"/>
+<rect width="2048" height="2048" fill="url(#grid)"/>
+<rect width="2048" height="2048" fill="url(#topglow)"/>
+<rect x="120" y="104" width="92" height="92" rx="22" fill="#FFFFFF"/>
+<g transform="translate(146.40,121.00) scale(0.2000)"><path d="M0.01 156.687C0.01 114.987 0.01 73.287 0.01 31.597C0.01 23.837 0.09 25.077 7.33 25.067C67.81 25.047 128.3 25.047 188.78 25.067C195.24 25.067 195.64 23.997 195.64 31.137C195.62 113.637 195.61 196.127 195.6 278.627C195.6 281.177 195.68 283.727 195.53 286.277C195.4 288.487 194.91 288.857 192.53 289.017C191.54 289.087 190.53 289.037 189.53 289.037C128.38 289.037 67.23 289.037 6.08 289.037C0.12 289.037 0.04 289.037 0.03 283.587C0.01 245.787 0.03 207.987 0.03 170.197C0.03 165.697 0.03 161.197 0.03 156.697H0L0.01 156.687Z" fill="#99000B"/><path d="M153.84 185.937C154.07 199.167 147.75 208.797 136.89 215.597C132.12 218.587 126.97 221.007 121.84 223.367C113.66 227.137 105.75 231.327 98.9 237.247C97.62 238.347 96.78 238.327 95.56 237.147C89.73 231.517 82.67 227.887 75.3 224.737C67.67 221.467 60.13 217.927 53.62 212.667C45.28 205.937 40.69 197.247 40.73 186.347C40.75 183.197 40.85 183.107 44.17 183.047C46.5 183.007 48.84 182.957 51.17 183.037C53.88 183.127 54.53 183.557 54.69 186.167C55.26 195.507 60.89 200.927 68.44 205.437C74.5 209.047 81.23 210.987 87.42 214.197C89.19 215.107 89.84 214.647 89.94 212.667C90.04 210.497 90 208.337 90 206.167V150.187H89.99C89.99 131.527 89.99 112.867 90 94.217C90.01 92.227 90.5 90.207 90.25 88.267C90.02 86.397 90.64 85.477 92.22 84.787C95.42 83.407 98.57 81.917 101.78 80.547C103.88 79.657 104.51 80.067 104.62 82.237C104.68 83.407 104.64 84.577 104.64 85.737V138.147C104.58 138.547 104.61 138.967 104.64 139.397C104.65 139.647 104.67 139.887 104.67 140.137C104.67 145.987 104.66 151.837 104.66 157.677C104.65 175.157 104.64 192.637 104.65 210.107C104.65 215.247 104.74 215.307 109.56 213.097C115.44 210.397 121.4 207.827 127.08 204.767C134.31 200.867 139.31 195.197 139.85 186.457C140.04 183.347 140.37 183.157 143.51 183.057C146.01 182.967 148.51 182.937 151.01 182.997C153.6 183.047 153.8 183.247 153.84 185.937Z" fill="#99000B"/><path d="M79.9598 90.3572V200.127C76.6198 198.397 73.2798 196.667 69.9398 194.927C67.9998 193.887 66.4898 192.797 65.3098 191.687V90.3572H79.9598Z" fill="#99000B"/><path d="M55.38 90.3572H40.73V172.987H55.38V90.3572Z" fill="#99000B"/><path d="M114.7 90.3572V200.127C118.04 198.397 121.38 196.667 124.72 194.927C126.66 193.887 128.17 192.797 129.35 191.687V90.3572H114.7Z" fill="#99000B"/><path d="M139.28 172.997H153.93V90.3671H139.28V172.997Z" fill="#99000B"/></g>
+<text x="232" y="152" font-family="Anchor Display" font-weight="800" font-size="46" letter-spacing="1" fill="#FFFFFF">ANCHOR</text>
+<text x="234" y="185" font-family="Anchor Sans" font-weight="600" font-size="17" letter-spacing="8" fill="#EE7A80">FINANCIALS</text>
+<rect x="1608" y="118" width="320" height="64" rx="32" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+<circle cx="1648" cy="150" r="7" fill="#EE7A80"/>
+<text x="1670" y="158" font-family="Anchor Sans" font-weight="500" font-size="20" letter-spacing="0.5" fill="#C3CDDC">Addis Ababa, Ethiopia</text>
+<text x="120" y="352" font-family="Anchor Sans" font-weight="600" font-size="22" letter-spacing="6" fill="#EE7A80">THE ANCHOR ECOSYSTEM</text>
+<text x="120" y="474" font-family="Anchor Display" font-weight="800" font-size="92" letter-spacing="-2" fill="#FFFFFF">One connected system</text>
+<text x="120" y="578" font-family="Anchor Display" font-weight="800" font-size="92" letter-spacing="-2" fill="#FFFFFF">for SACCOs &amp; <tspan fill="#EE7A80">microfinance.</tspan></text>
+<text x="120" y="652" font-family="Anchor Sans" font-weight="400" font-size="30" fill="#C3CDDC">Core banking, member apps, performance and reporting &#8212; built as one platform.</text>
+<circle cx="1024" cy="1270" r="470" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/>
+<circle cx="1024" cy="1270" r="330" fill="none" stroke="#FFFFFF" stroke-opacity="0.06"/>
+<circle cx="1024" cy="1270" r="300" fill="url(#hubglow)"/>
+<line x1="1024" y1="1270" x2="1024.0" y2="750.0" stroke="#99000B" stroke-opacity="0.45" stroke-width="3"/>
+<line x1="1024" y1="1270" x2="1518.5" y2="1109.3" stroke="#99000B" stroke-opacity="0.45" stroke-width="3"/>
+<line x1="1024" y1="1270" x2="1329.6" y2="1690.7" stroke="#99000B" stroke-opacity="0.45" stroke-width="3"/>
+<line x1="1024" y1="1270" x2="718.4" y2="1690.7" stroke="#99000B" stroke-opacity="0.45" stroke-width="3"/>
+<line x1="1024" y1="1270" x2="529.5" y2="1109.3" stroke="#99000B" stroke-opacity="0.45" stroke-width="3"/>
+<circle cx="1024.0" cy="750.0" r="5" fill="#99000B"/>
+<circle cx="1518.5" cy="1109.3" r="5" fill="#99000B"/>
+<circle cx="1329.6" cy="1690.7" r="5" fill="#99000B"/>
+<circle cx="718.4" cy="1690.7" r="5" fill="#99000B"/>
+<circle cx="529.5" cy="1109.3" r="5" fill="#99000B"/>
+<rect x="789.0" y="675.0" width="470" height="150" rx="26" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<rect x="815.0" y="720.0" width="60" height="60" rx="16" fill="#99000B" fill-opacity="0.20"/>
+<g transform="translate(828.00,733.00) scale(1.4167)" stroke="#F3A5A9" stroke-width="2.20" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4" fill="none"/></g>
+<text x="897.0" y="748.0" font-family="Anchor Display" font-weight="700" font-size="24" fill="#FFFFFF">Mobile Member App</text>
+<text x="897.0" y="778.0" font-family="Anchor Sans" font-weight="400" font-size="16" fill="#8A9BB5">Self-service on any phone</text>
+<rect x="1283.5" y="1034.3" width="470" height="150" rx="26" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<rect x="1309.5" y="1079.3" width="60" height="60" rx="16" fill="#99000B" fill-opacity="0.20"/>
+<g transform="translate(1322.55,1092.31) scale(1.4167)" stroke="#F3A5A9" stroke-width="2.20" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M22 7l-8.5 8.5-5-5L2 17M16 7h6v6" fill="none"/></g>
+<text x="1391.5" y="1107.3" font-family="Anchor Display" font-weight="700" font-size="24" fill="#FFFFFF">Performance Management</text>
+<text x="1391.5" y="1137.3" font-family="Anchor Sans" font-weight="400" font-size="16" fill="#8A9BB5">KPIs, dashboards, targets</text>
+<rect x="1094.6" y="1615.7" width="470" height="150" rx="26" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<rect x="1120.6" y="1660.7" width="60" height="60" rx="16" fill="#99000B" fill-opacity="0.20"/>
+<g transform="translate(1133.65,1673.69) scale(1.4167)" stroke="#F3A5A9" stroke-width="2.20" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 3v16a2 2 0 0 0 2 2h16M19 9l-5 5-4-4-3 3" fill="none"/></g>
+<text x="1202.6" y="1688.7" font-family="Anchor Display" font-weight="700" font-size="24" fill="#FFFFFF">Reporting &amp; BI</text>
+<text x="1202.6" y="1718.7" font-family="Anchor Sans" font-weight="400" font-size="16" fill="#8A9BB5">Reports, schedules, exports</text>
+<rect x="483.4" y="1615.7" width="470" height="150" rx="26" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<rect x="509.4" y="1660.7" width="60" height="60" rx="16" fill="#99000B" fill-opacity="0.20"/>
+<g transform="translate(522.35,1673.69) scale(1.4167)" stroke="#F3A5A9" stroke-width="2.20" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M6 3h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zM15 13h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-3a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2zM7 10v4a2 2 0 0 0 2 2h4" fill="none"/></g>
+<text x="591.4" y="1688.7" font-family="Anchor Display" font-weight="700" font-size="24" fill="#FFFFFF">SMS &amp; Notifications</text>
+<text x="591.4" y="1718.7" font-family="Anchor Sans" font-weight="400" font-size="16" fill="#8A9BB5">Automated member messaging</text>
+<rect x="294.5" y="1034.3" width="470" height="150" rx="26" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.12"/>
+<rect x="320.5" y="1079.3" width="60" height="60" rx="16" fill="#99000B" fill-opacity="0.20"/>
+<g transform="translate(333.45,1092.31) scale(1.4167)" stroke="#F3A5A9" stroke-width="2.20" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M16 16h6v6h-6zM2 16h6v6H2zM9 2h6v6H9zM5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3M12 12V8" fill="none"/></g>
+<text x="402.5" y="1107.3" font-family="Anchor Display" font-weight="700" font-size="24" fill="#FFFFFF">Agent &amp; Branch</text>
+<text x="402.5" y="1137.3" font-family="Anchor Sans" font-weight="400" font-size="16" fill="#8A9BB5">Cash, float and multi-location</text>
+<rect x="744.0" y="1178.0" width="560" height="184" rx="34" fill="url(#hub)"/>
+<rect x="744.0" y="1178.0" width="560" height="184" rx="34" fill="none" stroke="#FFFFFF" stroke-opacity="0.18"/>
+<rect x="784.0" y="1230" width="80" height="80" rx="20" fill="#FFFFFF" fill-opacity="0.16"/>
+<g transform="translate(804.00,1250.00) scale(1.6667)" stroke="#FFFFFF" stroke-width="2.20" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 22h18M6 18v-7M10 18v-7M14 18v-7M18 18v-7M12 2l8 5H4z" fill="none"/></g>
+<text x="894.0" y="1264" font-family="Anchor Display" font-weight="800" font-size="36" fill="#FFFFFF">Core Banking System</text>
+<text x="894.0" y="1304" font-family="Anchor Sans" font-weight="400" font-size="18" fill="#F9D5D7">Members &#183; Savings &#183; Loans &#183; Transactions</text>
+<line x1="120" y1="1812" x2="1928" y2="1812" stroke="#FFFFFF" stroke-opacity="0.10"/>
+<rect x="557.4" y="1832" width="118.4" height="62" rx="31" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+<text x="616.6" y="1871" text-anchor="middle" font-family="Anchor Sans" font-weight="500" font-size="20" fill="#C3CDDC">SACCOs</text>
+<rect x="693.8" y="1832" width="316.0" height="62" rx="31" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+<text x="851.8" y="1871" text-anchor="middle" font-family="Anchor Sans" font-weight="500" font-size="20" fill="#C3CDDC">Microfinance Institutions</text>
+<rect x="1027.8" y="1832" width="180.8" height="62" rx="31" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+<text x="1118.2" y="1871" text-anchor="middle" font-family="Anchor Sans" font-weight="500" font-size="20" fill="#C3CDDC">Cooperatives</text>
+<rect x="1226.6" y="1832" width="264.0" height="62" rx="31" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+<text x="1358.6" y="1871" text-anchor="middle" font-family="Anchor Sans" font-weight="500" font-size="20" fill="#C3CDDC">Growing Institutions</text>
+<text x="1024" y="1958" text-anchor="middle" font-family="Anchor Sans" font-weight="500" font-size="20" letter-spacing="1" fill="#EE7A80">anchorfinancials.com</text>
+</svg>
